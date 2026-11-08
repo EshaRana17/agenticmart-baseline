@@ -1,0 +1,19 @@
+{
+  "name": "agenticmart-baseline",
+  "version": "0.1.0",
+  "description": "Record, compare and convert MCP tool baselines from the AgenticMart API or a local probe.",
+  "type": "module",
+  "bin": {
+    "agenticmart-baseline": "bin/agenticmart-baseline.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "author": "Esha Sabir",
+  "repository": "github:EshaRana17/agenticmart-baseline",
+  "homepage": "https://agenticmart.org"
+}
